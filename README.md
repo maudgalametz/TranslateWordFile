@@ -8,7 +8,7 @@ This script aims to replace words in a Word document by other following a list p
 
 ### Prerequisites
 
-To run the PredictDustpedia.py script, you will only need a few standard libraries like pandas, cmath and docx.
+To run the script, you will only need a few standard libraries like pandas, cmath and docx.
 
 ## How to use the python script:
 
